@@ -1,0 +1,100 @@
+hdrs/vtkLargeInteger.h:73: Warning 383: operator++ ignored
+hdrs/vtkLargeInteger.h:74: Warning 384: operator-- ignored
+hdrs/vtkUnicodeString.h:95: Warning 325: Nested class not currently supported (const_iterator ignored)
+hdrs/vtkInformationDataObjectKey.h:30: Warning 401: Base class 'vtkInformationKey' undefined.
+hdrs/vtkInformationKey.h:36: Warning 401: 'vtkInformationKey' must be defined before it is used as a base class.
+hdrs/vtkCallbackCommand.h:41: Warning 401: Base class 'vtkCommand' undefined.
+hdrs/vtkCommand.h:324: Warning 401: 'vtkCommand' must be defined before it is used as a base class.
+hdrs/vtkOldStyleCallbackCommand.h:38: Warning 401: Base class 'vtkCommand' undefined.
+hdrs/vtkCommand.h:324: Warning 401: 'vtkCommand' must be defined before it is used as a base class.
+hdrs/vtkDataArrayCollection.h:28: Warning 401: Base class 'vtkCollection' undefined.
+hdrs/vtkCollection.h:49: Warning 401: 'vtkCollection' must be defined before it is used as a base class.
+hdrs/vtkCharArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< char >'. Ignored.
+hdrs/vtkCharArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< char >' using %template.
+hdrs/vtkLongArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< long >'. Ignored.
+hdrs/vtkLongArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< long >' using %template.
+hdrs/vtkTypeUInt32Array.h:27: Warning 401: Base class 'vtkUnsignedIntArray' undefined.
+hdrs/vtkUnsignedIntArray.h:37: Warning 401: 'vtkUnsignedIntArray' must be defined before it is used as a base class.
+hdrs/vtkInformationObjectBaseKey.h:30: Warning 401: Base class 'vtkInformationKey' undefined.
+hdrs/vtkInformationKey.h:36: Warning 401: 'vtkInformationKey' must be defined before it is used as a base class.
+hdrs/vtkInformationVariantKey.h:30: Warning 401: Base class 'vtkInformationKey' undefined.
+hdrs/vtkInformationKey.h:36: Warning 401: 'vtkInformationKey' must be defined before it is used as a base class.
+hdrs/vtkMinimalStandardRandomSequence.h:39: Warning 401: Base class 'vtkRandomSequence' undefined.
+hdrs/vtkRandomSequence.h:35: Warning 401: 'vtkRandomSequence' must be defined before it is used as a base class.
+hdrs/vtkTypeInt64Array.h:27: Warning 401: Base class 'vtkLongLongArray' undefined.
+hdrs/vtkLongLongArray.h:37: Warning 401: 'vtkLongLongArray' must be defined before it is used as a base class.
+hdrs/vtkBitArray.h:30: Warning 401: Base class 'vtkDataArray' undefined.
+hdrs/vtkDataArray.h:46: Warning 401: 'vtkDataArray' must be defined before it is used as a base class.
+hdrs/vtkInformationIdTypeKey.h:28: Warning 401: Base class 'vtkInformationKey' undefined.
+hdrs/vtkInformationKey.h:36: Warning 401: 'vtkInformationKey' must be defined before it is used as a base class.
+hdrs/vtkInformationIntegerKey.h:28: Warning 401: Base class 'vtkInformationKey' undefined.
+hdrs/vtkInformationKey.h:36: Warning 401: 'vtkInformationKey' must be defined before it is used as a base class.
+hdrs/vtkLookupTable.h:56: Warning 401: Base class 'vtkScalarsToColors' undefined.
+hdrs/vtkScalarsToColors.h:57: Warning 401: 'vtkScalarsToColors' must be defined before it is used as a base class.
+hdrs/vtkShortArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< short >'. Ignored.
+hdrs/vtkShortArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< short >' using %template.
+hdrs/vtkStdString.h:38: Warning 401: Nothing known about base class 'std::string'. Ignored.
+hdrs/vtkUnsignedCharArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< unsigned char >'. Ignored.
+hdrs/vtkUnsignedCharArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< unsigned char >' using %template.
+hdrs/vtkUnsignedLongArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< unsigned long >'. Ignored.
+hdrs/vtkUnsignedLongArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< unsigned long >' using %template.
+hdrs/vtkSignedCharArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< signed char >'. Ignored.
+hdrs/vtkSignedCharArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< signed char >' using %template.
+hdrs/vtkTypeFloat64Array.h:27: Warning 401: Base class 'vtkDoubleArray' undefined.
+hdrs/vtkDoubleArray.h:37: Warning 401: 'vtkDoubleArray' must be defined before it is used as a base class.
+hdrs/vtkUnsignedLongLongArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< unsigned long long >'. Ignored.
+hdrs/vtkUnsignedLongLongArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< unsigned long long >' using %template.
+hdrs/vtkUnsignedShortArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< unsigned short >'. Ignored.
+hdrs/vtkUnsignedShortArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< unsigned short >' using %template.
+hdrs/vtkFloatArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< float >'. Ignored.
+hdrs/vtkFloatArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< float >' using %template.
+hdrs/vtkIntArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< int >'. Ignored.
+hdrs/vtkIntArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< int >' using %template.
+hdrs/vtkDoubleArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< double >'. Ignored.
+hdrs/vtkDoubleArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< double >' using %template.
+hdrs/vtkUnsignedIntArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< unsigned int >'. Ignored.
+hdrs/vtkUnsignedIntArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< unsigned int >' using %template.
+hdrs/vtkIdTypeArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< vtkIdType >'. Ignored.
+hdrs/vtkIdTypeArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< vtkIdType >' using %template.
+hdrs/vtkLongLongArray.h:35: Warning 401: Nothing known about base class 'vtkDataArrayTemplate< long long >'. Ignored.
+hdrs/vtkLongLongArray.h:35: Warning 401: Maybe you forgot to instantiate 'vtkDataArrayTemplate< long long >' using %template.
+hdrs/vtkXMLFileOutputWindow.h:42: Warning 401: Base class 'vtkFileOutputWindow' undefined.
+hdrs/vtkFileOutputWindow.h:29: Warning 401: 'vtkFileOutputWindow' must be defined before it is used as a base class.
+hdrs/vtkArrayRange.h:85: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+hdrs/vtkArrayCoordinates.h:87: Warning 516: Overloaded method vtkArrayCoordinates::operator [](vtkArrayCoordinates::DimensionT) const ignored,
+hdrs/vtkArrayCoordinates.h:83: Warning 516: using vtkArrayCoordinates::operator [](vtkArrayCoordinates::DimensionT) instead.
+hdrs/vtkArrayCoordinates.h:105: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+hdrs/vtkArraySort.h:86: Warning 516: Overloaded method vtkArraySort::operator [](vtkArraySort::DimensionT) const ignored,
+hdrs/vtkArraySort.h:82: Warning 516: using vtkArraySort::operator [](vtkArraySort::DimensionT) instead.
+hdrs/vtkArraySort.h:100: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+hdrs/vtkStdString.h:29: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+hdrs/vtkStdString.h:60: Warning 503: Can't wrap 'operator const char*' unless renamed to a valid identifier.
+hdrs/vtkArrayExtents.h:134: Warning 516: Overloaded method vtkArrayExtents::operator [](vtkArrayExtents::DimensionT) const ignored,
+hdrs/vtkArrayExtents.h:130: Warning 516: using vtkArrayExtents::operator [](vtkArrayExtents::DimensionT) instead.
+hdrs/vtkArrayExtents.h:202: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+hdrs/vtkTimeStamp.h:60: Warning 503: Can't wrap 'operator unsigned long' unless renamed to a valid identifier.
+hdrs/vtkVariant.h:123: Warning 516: Overloaded method vtkVariant::vtkVariant(long) ignored,
+hdrs/vtkVariant.h:115: Warning 516: using vtkVariant::vtkVariant(int) instead.
+hdrs/vtkVariant.h:127: Warning 516: Overloaded method vtkVariant::vtkVariant(unsigned long) ignored,
+hdrs/vtkVariant.h:119: Warning 516: using vtkVariant::vtkVariant(unsigned int) instead.
+hdrs/vtkVariant.h:115: Warning 516: Overloaded method vtkVariant::vtkVariant(int) ignored,
+hdrs/vtkVariant.h:123: Warning 516: using vtkVariant::vtkVariant(long) instead.
+hdrs/vtkVariant.h:119: Warning 516: Overloaded method vtkVariant::vtkVariant(unsigned int) ignored,
+hdrs/vtkVariant.h:127: Warning 516: using vtkVariant::vtkVariant(unsigned long) instead.
+hdrs/vtkArrayExtentsList.h:88: Warning 516: Overloaded method vtkArrayExtentsList::operator [](vtkIdType) const ignored,
+hdrs/vtkArrayExtentsList.h:84: Warning 516: using vtkArrayExtentsList::operator [](vtkIdType) instead.
+hdrs/vtkLargeInteger.h:29: Warning 516: Overloaded method vtkLargeInteger::vtkLargeInteger(int) ignored,
+hdrs/vtkLargeInteger.h:27: Warning 516: using vtkLargeInteger::vtkLargeInteger(long) instead.
+hdrs/vtkLargeInteger.h:30: Warning 516: Overloaded method vtkLargeInteger::vtkLargeInteger(unsigned int) ignored,
+hdrs/vtkLargeInteger.h:28: Warning 516: using vtkLargeInteger::vtkLargeInteger(unsigned long) instead.
+hdrs/vtkLargeInteger.h:27: Warning 516: Overloaded method vtkLargeInteger::vtkLargeInteger(long) ignored,
+hdrs/vtkLargeInteger.h:29: Warning 516: using vtkLargeInteger::vtkLargeInteger(int) instead.
+hdrs/vtkLargeInteger.h:28: Warning 516: Overloaded method vtkLargeInteger::vtkLargeInteger(unsigned long) ignored,
+hdrs/vtkLargeInteger.h:30: Warning 516: using vtkLargeInteger::vtkLargeInteger(unsigned int) instead.
+hdrs/vtkLargeInteger.h:95: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+hdrs/vtkLargeInteger.h:96: Warning 503: Can't wrap 'operator >>' unless renamed to a valid identifier.
+hdrs/vtkIndent.h:28: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+hdrs/vtkArrayWeights.h:92: Warning 516: Overloaded method vtkArrayWeights::operator [](vtkIdType) const ignored,
+hdrs/vtkArrayWeights.h:88: Warning 516: using vtkArrayWeights::operator [](vtkIdType) instead.
+hdrs/vtkWeakPointerBase.h:109: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
+hdrs/vtkSmartPointerBase.h:117: Warning 503: Can't wrap 'operator <<' unless renamed to a valid identifier.
